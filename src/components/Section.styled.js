@@ -3,8 +3,8 @@ import styled from 'styled-components';
 export const StyledSection = styled.section`
   padding-top: 30px;
   padding-bottom: 30px;
-  display: flex;
-  flex-direction: column;
+  align-items: start;
+  justify-content: start;
 `;
 export const ContactsTitle = styled.h2`
   font-size: 30px;
