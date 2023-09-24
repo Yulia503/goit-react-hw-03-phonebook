@@ -9,7 +9,7 @@ export const FormAddContact = styled(Form)`
   padding-right: 30px;
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 10px;
 
   border-radius: 20px;
   border: 2px solid;
